@@ -1,0 +1,24 @@
+{
+  "editor.linkedEditing": true,
+  "json.format.enable": false,
+  "javascript.preferences.quoteStyle": "single",
+  "files.autoSave": "off",
+  "editor.fontSize": 15,
+  "window.zoomLevel": 0.3,
+  "vetur.format.defaultFormatter.js": "vscode-typescript",
+  "html.format.endWithNewline": true,
+  "explorer.confirmDelete": false,
+  "prettier.semi": false,
+  "prettier.singleQuote": true,
+  "prettier.jsxBracketSameLine": true,
+  "prettier.jsxSingleQuote": true,
+  "vetur.format.defaultFormatter.html": "js-beautify-html",
+  "vetur.format.defaultFormatterOptions": {
+    "js-beautify-html": {
+      "wrap_line_length": 220,
+      "wrap_attributes": "auto",
+      "end_with_newline": false
+    }
+  },
+  "typescript.updateImportsOnFileMove.enabled": "always"
+}
