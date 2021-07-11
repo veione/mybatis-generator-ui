@@ -1,0 +1,23 @@
+{
+  "id": "2666382",
+  "name": "代码生成项目",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "11891800",
+      "name": "fullscreen",
+      "font_class": "fullscreen",
+      "unicode": "e66f",
+      "unicode_decimal": 58991
+    },
+    {
+      "icon_id": "18727201",
+      "name": "github",
+      "font_class": "github",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    }
+  ]
+}
